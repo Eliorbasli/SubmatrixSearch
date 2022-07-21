@@ -1,0 +1,2 @@
+Picture 1: found Object 1 in Position (200,231)
+Picture 2: found Object 1 in Position (229,279)
